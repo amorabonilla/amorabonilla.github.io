@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ángel Mora Bonilla</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ángel Mora Bonilla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ángel Mora Bonilla 2019</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Ángel Mora Bonilla</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&#39;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&#39;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grupo Usuarios R</title>
+      <link>/project/external-project/grupor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/grupor/</guid>
+      <description>&lt;h1 id=&#34;grupo-de-usuarios-de-r-en-mlaga&#34;&gt;Grupo de Usuarios de R en Málaga&lt;/h1&gt;
+&lt;p&gt;En noviembre de 2018 hemos creado el grupo de usuarios de R de Málaga.&lt;/p&gt;
+&lt;p&gt;Queremos formar una comunidad en la que compartir conocimiento y experiencias, organizar reuniones y todo tipo de actividades para aprender entre todos a aprovechar todas las lenguajes de R. Totalmente abierto a científicos, profesores, estudiantes, informáticos, programadores, analistas de datos, y cualquier interesado en el uso y el desarrollo de R.&lt;/p&gt;
+&lt;p&gt;**Información del grupo, reuniones, material en: &lt;a href=&#34;https://malagarusers.netlify.com&#34;&gt;la web del grupo&lt;/a&gt; **&lt;/p&gt;
+&lt;p&gt;Además tenemos cuenta de twitter, y un repositorio donde iremos alojando código, presentaciones, etc.&lt;/p&gt;
+&lt;p&gt;Los co-organizadores de este grupo somos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jesús Alberto Domínguez Álvarez (@jax1231). Ingeniero Informático que trabaja con R en la industria&lt;/li&gt;
+&lt;li&gt;Pablo Gómez Gonzalo (@Torla18). Investigador en la Universidad de Málaga&lt;/li&gt;
+&lt;li&gt;Domingo López Rodríguez (@dominlopez). Profesor Ayudante Doctor en la Universidad de Málaga&lt;/li&gt;
+&lt;li&gt;Ángel Mora Bonilla (@amorabonilla). Profesor titular en la Universidad de Málaga.&lt;/li&gt;
+&lt;li&gt;Joaquín Morís (@joaquinmoris). PhD in Psychology.&lt;/li&gt;
+&lt;li&gt;Ana Villalón Martín (@Anavillalonm). Ingeniera Informática que trabaja con R en la industria&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Por último, seguimos el Código de Conducta de R Consortium.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Under construction&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
